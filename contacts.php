@@ -22,7 +22,7 @@
             <h3 class="breadcrumbs-custom-title">Contacts</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
-          <div class="box-transform" style="background-image: url(images/bg-1.jpg);"></div>
+          <div class="box-transform" style="background-image: url(./images/ingredients-pics.png);"></div>
         </div>
         <div class="container">
           <ul class="breadcrumbs-custom-path">

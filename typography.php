@@ -1,8 +1,8 @@
-<?php include "header.php";?>
+<?php include "./header.php";?>
                         <div class="col-6">
                           <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-6-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-6-195x164.jpg" alt="" width="195" height="164"/>
+                          <article class="thumbnail thumbnail-creative"><a href="./images/pizz.png" data-lightgallery="item"  width="195" height="164">
+                              <div class="thumbnail-creative-figure"><img src="./images/ingredients-pics.png" alt="" width="195" height="164"/>
                               </div>
                               <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
                         </div>
@@ -22,7 +22,7 @@
             <h3 class="breadcrumbs-custom-title">Typography</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
-          <div class="box-transform" style="background-image: url(images/bg-1.jpg);"></div>
+          <div class="box-transform" style="background-image: url(./images/ingredients-pics.png);"></div>
         </div>
         <div class="container">
           <ul class="breadcrumbs-custom-path">
@@ -63,7 +63,7 @@
                 </li>
               </ul>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
               <div class="box-typography-description">
                 <div class="box-typography-description-item">
                   <p class="heading-7">Google Fonts</p>
@@ -90,7 +90,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </section>
 
       <!-- HTML Text Elements-->

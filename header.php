@@ -73,7 +73,7 @@
                       <li>
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                          <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                          <div class="unit-body"><a class="phone" href="tel:0808138665">0808138665</a></div>
                         </div>
                       </li>
                       <li>
@@ -120,8 +120,8 @@
                       <div class="row gutters-20" data-lightgallery="group">
                         <div class="col-6">
                           <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-1-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-1-195x164.jpg" alt="" width="195" height="164"/>
+                          <article class="thumbnail thumbnail-creative"><a href="./images/pizza-bigPie.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/pizza.png" alt="" width="195" height="164"/>
                               </div>
                               <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
                         </div>

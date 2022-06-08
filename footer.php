@@ -19,12 +19,11 @@
               <div class="col-md-6 col-lg-4 col-xl-3">
                 <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Information</span></h5>
                 <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
-                  <li><a href="about-us.html">About us</a></li>
-                  <li><a href="#">Latest News</a></li>
+                  <li><a href="about-us.php">About us</a></li>
                   <li><a href="#">Our Menu</a></li>
                   <li><a href="#">FAQ</a></li>
                   <li><a href="#">Shop</a></li>
-                  <li><a href="contacts.html">Contact Us</a></li>
+                  <li><a href="contacts.php">Contact Us</a></li>
                 </ul>
               </div>
               <div class="col-lg-4 col-xl-5">
@@ -51,7 +50,7 @@
                 <div class="row row-30 align-items-center text-lg-center">
                   <div class="col-md-7 col-xl-6"><a class="brand" href="index.html"><img src="images/logo-inverse-198x66.png" alt="" width="198" height="66"/></a></div>
                   <div class="col-md-5 col-xl-6">
-                    <div class="iso-1"><span><img src="images/like-icon-58x25.png" alt="" width="58" height="25"/></span><span class="iso-1-big">9.4k</span></div>
+                    <div class="iso-1"><span><img src="./images/favicon.ico" alt="" width="58" height="25"/></span><span class="iso-1-big">9.4k</span></div>
                   </div>
                 </div>
               </div>
@@ -60,7 +59,7 @@
                   <div class="footer-modern-contacts wow slideInUp">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                      <div class="unit-body"><a class="phone" href="tel:0808138665">0803-813-8665</a></div>
                     </div>
                   </div>
                   <div class="footer-modern-contacts wow slideInDown">
@@ -88,7 +87,7 @@
               <div class="col-md-6"><span>514 S. Magnolia St. Orlando, FL 32806</span></div>
               <div class="col-md-auto">
                 <!-- Rights-->
-                <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span></span><span>.&nbsp;</span><span>All Rights Reserved.</span><span> Design&nbsp;by&nbsp;<a href="https://www.templatemonster.com">TemplateMonster</a></span></p>
+                <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span></span><span>.&nbsp;</span><span>All Rights Reserved.</span></p>
               </div>
             </div>
           </div>

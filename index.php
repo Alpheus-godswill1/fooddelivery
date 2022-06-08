@@ -1,8 +1,8 @@
 <?php include "header.php";?>
                         <div class="col-6">
                           <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-3-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-3-195x164.jpg" alt="" width="195" height="164"/>
+                          <article class="thumbnail thumbnail-creative"><a href="./images/pizza-bigPie.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/ingredients-pics.png" alt="" width="195" height="164"/>
                               </div>
                               <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
                         </div>
@@ -39,7 +39,7 @@
       <!-- Swiper-->
       <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper text-sm-left">
-          <div class="swiper-slide context-dark" data-slide-bg="images/slide-1-1920x753.jpg">
+          <div class="swiper-slide context-dark" data-slide-bg="./images/ingredients-pics.png">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
@@ -51,7 +51,7 @@
               </div>
             </div>
           </div>
-          <div class="swiper-slide context-dark" data-slide-bg="images/slide-2-1920x753.jpg">
+          <div class="swiper-slide context-dark" data-slide-bg="./images/slized-pizza-pie.png">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
@@ -102,7 +102,7 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInDown">
-                  <div class="services-terri-figure"><img src="./images/menu-2-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/pizza.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-pizza"></span>
                     <h5 class="services-terri-title"><a href="#">Pizzas</a></h5>
@@ -114,10 +114,10 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInUp">
-                  <div class="services-terri-figure"><img src="images/menu-3-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/shawarma-real-pics.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-hamburger"></span>
-                    <h5 class="services-terri-title"><a href="#">Burgers</a></h5>
+                    <h5 class="services-terri-title"><a href="#">Shawarma</a></h5>
                   </div>
                 </article>
               </div>
@@ -126,7 +126,7 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInDown">
-                  <div class="services-terri-figure"><img src="images/menu-4-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/ham-piz-shaw-comb.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-ice-cream"></span>
                     <h5 class="services-terri-title"><a href="#">Desserts</a></h5>
@@ -138,7 +138,7 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInUp">
-                  <div class="services-terri-figure"><img src="images/menu-5-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/juiceGlass.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-coffee-cup"></span>
                     <h5 class="services-terri-title"><a href="#">Drinks</a></h5>
@@ -182,16 +182,16 @@
       <!-- Our Shop-->
       <section class="section section-lg bg-default">
         <div class="container">
-          <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Selected Pizzas</span></h3>
+          <h3 class="oh-desktop"><span class="d-inline-block wow slideInUp">Chops</span></h3>
           <div class="row row-lg row-30">
             <div class="col-sm-6 col-lg-4 col-xl-3">
               <!-- Product-->
               <article class="product wow fadeInLeft" data-wow-delay=".15s">
-                <div class="product-figure"><img src="images/product-1-161x162.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="./images/shawarma-real-pics.png" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Margherita Pizza</h6>
+                <h6 class="product-title">shawarma</h6>
                 <div class="product-price-wrap">
                   <div class="product-price">$24.00</div>
                 </div>
@@ -208,7 +208,7 @@
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span>
                 </div>
-                <h6 class="product-title">Mushroom Pizza</h6>
+                <h6 class="product-title">Donuts</h6>
                 <div class="product-price-wrap">
                   <div class="product-price">$24.00</div>
                 </div>
@@ -225,7 +225,7 @@
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
-                <h6 class="product-title">Hawaiian Pizza</h6>
+                <h6 class="product-title">Meat Pie</h6>
                 <div class="product-price-wrap">
                   <div class="product-price">$24.00</div>
                 </div>
@@ -238,11 +238,11 @@
             <div class="col-sm-6 col-lg-4 col-xl-3">
               <!-- Product-->
               <article class="product wow fadeInLeft">
-                <div class="product-figure"><img src="images/product-4-161x162.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="./images/slized-pizza-pie.png" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span>
                 </div>
-                <h6 class="product-title">Pesto Pizza</h6>
+                <h6 class="product-title">Pizza</h6>
                 <div class="product-price-wrap">
                   <div class="product-price product-price-old">$40.00</div>
                   <div class="product-price">$24.00</div>
