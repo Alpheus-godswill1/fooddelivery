@@ -1,20 +1,5 @@
 <?php include "header.php";?>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-6-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-6-195x164.jpg" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+                        
       <!-- Breadcrumbs -->
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark">
@@ -47,7 +32,7 @@
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
-                      <input class="form-input" id="contact-email-5" type="email" name="email" data-constraints="@Email @Required">
+                      <input class="form-input border border-warning" id="contact-email-5" type="email" name="email" data-constraints="@Email @Required">
                       <label class="form-label" for="contact-email-5">Your E-mail*</label>
                     </div>
                   </div>

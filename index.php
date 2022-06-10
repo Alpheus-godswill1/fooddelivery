@@ -1,41 +1,5 @@
 <?php include "header.php";?>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="./images/pizza-bigPie.png" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="./images/ingredients-pics.png" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-4-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-4-195x164.jpg" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="./images/project-5-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="./images/project-5-195x164.jpg" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="images/project-6-1200x800-original.jpg" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="images/project-6-195x164.jpg" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+                        
       <!-- Swiper-->
       <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper text-sm-left">
@@ -90,7 +54,7 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInUp">
-                  <div class="services-terri-figure"><img src="images/menu-1-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/salad-2.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-leaf"></span>
                     <h5 class="services-terri-title"><a href="#">Salads</a></h5>
@@ -150,7 +114,7 @@
               <div class="oh-desktop">
                 <!-- Services Terri-->
                 <article class="services-terri wow slideInDown">
-                  <div class="services-terri-figure"><img src="images/menu-6-370x278.jpg" alt="" width="370" height="278"/>
+                  <div class="services-terri-figure"><img src="./images/seafood-2.png" alt="" width="370" height="278"/>
                   </div>
                   <div class="services-terri-caption"><span class="services-terri-icon linearicons-steak"></span>
                     <h5 class="services-terri-title"><a href="#">Seafood</a></h5>
@@ -204,7 +168,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-3">
               <!-- Product-->
               <article class="product wow fadeInLeft" data-wow-delay=".1s">
-                <div class="product-figure"><img src="images/product-2-161x162.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="./images/donuts-1.png" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span>
                 </div>
@@ -221,7 +185,7 @@
             <div class="col-sm-6 col-lg-4 col-xl-3">
               <!-- Product-->
               <article class="product wow fadeInLeft" data-wow-delay=".05s">
-                <div class="product-figure"><img src="images/product-3-161x162.png" alt="" width="161" height="162"/>
+                <div class="product-figure"><img src="./images/meatpie.png" alt="" width="161" height="162"/>
                 </div>
                 <div class="product-rating"><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star"></span><span class="mdi mdi-star text-gray-13"></span>
                 </div>
@@ -381,7 +345,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="images/gallery-5-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-5-311x289.jpg" alt="" width="311" height="289"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInUp"><a class="thumbnail-mary-figure" href="./images/salad.png" data-lightgallery="item"><img src="./images/salad.png" alt="" width="311" height="289"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Exotic Salads</a></h6>
@@ -392,7 +356,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="images/gallery-6-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-6-311x289.jpg" alt="" width="311" height="289"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInRight"><a class="thumbnail-mary-figure" href="./images/slized-pizza-pie.png" data-lightgallery="item"><img src="./images/slized-pizza-pie.png" alt="" width="311" height="289"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">All Types of pizza</a></h6>

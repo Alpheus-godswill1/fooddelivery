@@ -120,8 +120,45 @@
                       <div class="row gutters-20" data-lightgallery="group">
                         <div class="col-6">
                           <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="./images/pizza-bigPie.png" data-lightgallery="item">
-                              <div class="thumbnail-creative-figure"><img src="./images/pizza.png" alt="" width="195" height="164"/>
+                          <article class="thumbnail thumbnail-creative"><a href="./images/salad.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/salad.png" alt="" width="195" height="164"/>
                               </div>
                               <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
                         </div>
+                        <div class="col-6">
+                          <!-- Thumbnail Creative-->
+                          <article class="thumbnail thumbnail-creative"><a href="images/ingredients-pics.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/ingredients-pics.png" alt="" width="195" height="164"/>
+                              </div>
+                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
+                        </div>
+                        <div class="col-6">
+                          <!-- Thumbnail Creative-->
+                          <article class="thumbnail thumbnail-creative"><a href="./images/donuts-1.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/donuts-1.png" alt="" width="195" height="164"/>
+                              </div>
+                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
+                        </div>
+                        <div class="col-6">
+                          <!-- Thumbnail Creative-->
+                          <article class="thumbnail thumbnail-creative"><a href="./images/meatpie.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/meatpie.png" alt="" width="195" height="164"/>
+                              </div>
+                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
+                        </div>
+                        <div class="col-6">
+                          <!-- Thumbnail Creative-->
+                          <article class="thumbnail thumbnail-creative"><a href="./images/seafood-2.png" data-lightgallery="item">
+                              <div class="thumbnail-creative-figure"><img src="./images/seafood-2.png" alt="" width="195" height="164"/>
+                              </div>
+                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>

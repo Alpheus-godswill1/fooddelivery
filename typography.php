@@ -1,20 +1,5 @@
 <?php include "./header.php";?>
-                        <div class="col-6">
-                          <!-- Thumbnail Creative-->
-                          <article class="thumbnail thumbnail-creative"><a href="./images/pizz.png" data-lightgallery="item"  width="195" height="164">
-                              <div class="thumbnail-creative-figure"><img src="./images/ingredients-pics.png" alt="" width="195" height="164"/>
-                              </div>
-                              <div class="thumbnail-creative-caption"><span class="icon thumbnail-creative-icon linearicons-magnifier"></span></div></a></article>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </nav>
-        </div>
-      </header>
+                    
       <!-- Breadcrumbs -->
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark">
