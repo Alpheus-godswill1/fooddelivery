@@ -3,19 +3,19 @@
       <!-- Swiper-->
       <section class="section swiper-container swiper-slider swiper-slider-2 swiper-slider-3" data-loop="true" data-autoplay="5000" data-simulate-touch="false" data-slide-effect="fade">
         <div class="swiper-wrapper text-sm-left">
-          <div class="swiper-slide context-dark" data-slide-bg="./images/ingredients-pics.png">
+          <div class="swiper-slide context-dark" data-slide-bg="./images/slized-pizza-pie.png">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
                   <div class="col-sm-9 col-md-8 col-lg-7 col-xl-7 offset-lg-1 offset-xxl-0">
-                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Perfect pizza</span></h1>
+                    <h1 class="oh swiper-title"><span class="d-inline-block" data-caption-animate="slideInUp" data-caption-delay="0">Chops plug</span></h1>
                     <p class="big swiper-text" data-caption-animate="fadeInLeft" data-caption-delay="300">Experience the taste of a perfect pizza at PizzaHouse, one of the best restaurants!</p><a class="button button-lg button-primary button-winona button-shadow-2" href="#" data-caption-animate="fadeInUp" data-caption-delay="300">View our menu</a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-          <div class="swiper-slide context-dark" data-slide-bg="./images/slized-pizza-pie.png">
+          <div class="swiper-slide context-dark" data-slide-bg="./images/ingredients-pics.png">
             <div class="swiper-slide-caption section-md">
               <div class="container">
                 <div class="row">
@@ -127,14 +127,14 @@
       </section>
 
       <!-- Section CTA-->
-      <section class="primary-overlay section parallax-container" data-parallax-img="images/bg-3.jpg">
+      <section class="primary-overlay section parallax-container" data-parallax-img="./images/seafood.png">
         <div class="parallax-content section-xl context-dark text-md-left">
           <div class="container">
             <div class="row justify-content-end">
               <div class="col-sm-8 col-md-7 col-lg-5">
                 <div class="cta-modern">
-                  <h3 class="cta-modern-title wow fadeInRight">Best atmosphere</h3>
-                  <p class="lead">PizzaHouse is the place of the best pizza and high-quality service.</p>
+                  <h3 class="cta-modern-title wow fadeInRight">Best Chop Plug</h3>
+                  <p class="lead">Preciliar is the place of the best chop plug and has high-quality service.</p>
                   <p class="cta-modern-text oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Ben Smith, Founder</span></p><a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#" data-wow-delay=".2s">View Our Services</a>
                 </div>
               </div>
@@ -222,14 +222,14 @@
       </section>
 
       <!-- Section CTA-->
-      <section class="primary-overlay section parallax-container" data-parallax-img="images/bg-4.jpg">
+      <section class="primary-overlay section parallax-container" data-parallax-img="./images/salad-2.png">
         <div class="parallax-content section-xxl context-dark text-md-left">
           <div class="container">
             <div class="row justify-content-end">
               <div class="col-sm-9 col-md-7 col-lg-5">
                 <div class="cta-modern">
                   <h3 class="cta-modern-title cta-modern-title-2 oh-desktop"><span class="d-inline-block wow fadeInLeft">-30% on all salads & drinks</span></h3>
-                  <p class="cta-modern-text cta-modern-text-2 oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor cta-modern-decor-2 wow slideInLeft"></span><span class="d-inline-block wow slideInUp">Taste some of the best PizzaHouse salads!</span></p><a class="button button-lg button-secondary button-winona wow fadeInRight" href="contacts.html" data-wow-delay=".2s">contact us</a>
+                  <p class="cta-modern-text cta-modern-text-2 oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor cta-modern-decor-2 wow slideInLeft"></span><span class="d-inline-block wow slideInUp">Taste some of the best Preciliary salads!</span></p><a class="button button-lg button-secondary button-winona wow fadeInRight" href="contacts.html" data-wow-delay=".2s">contact us</a>
                 </div>
               </div>
             </div>
@@ -465,12 +465,5 @@
         </div>
       </section>
  <?php include "./footer.php"?>
-    </div>
-    <!-- Global Mailform Output-->
-    <div class="snackbars" id="form-output-global"></div>
-    <!-- Javascript-->
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
-    <!-- coded by Himic-->
   </body>
 </html>

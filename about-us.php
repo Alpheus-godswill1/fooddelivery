@@ -12,7 +12,7 @@
         </div>
         <div class="container">
           <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="active">About us</li>
           </ul>
         </div>
@@ -286,10 +286,5 @@
         </div>
       </section>
 <?php include "./footer.php";?>
-    <!-- Global Mailform Output-->
-    <div class="snackbars" id="form-output-global"></div>
-    <!-- Javascript-->
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
   </body>
 </html>

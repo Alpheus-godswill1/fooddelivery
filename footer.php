@@ -73,7 +73,7 @@
                       <li><a class="icon mdi mdi-facebook" href="#"></a></li>
                       <li><a class="icon mdi mdi-twitter" href="#"></a></li>
                       <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                      <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                      <!-- <li><a class="icon mdi mdi-google-plus" href="#"></a></li> -->
                     </ul>
                   </div>
                 </div>
@@ -93,3 +93,9 @@
           </div>
         </div>
       </footer>
+      
+      <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>

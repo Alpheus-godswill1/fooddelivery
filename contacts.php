@@ -11,7 +11,7 @@
         </div>
         <div class="container">
           <ul class="breadcrumbs-custom-path">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li class="active">Contacts</li>
           </ul>
         </div>
@@ -71,15 +71,15 @@
                     <ul class="list-inline contacts-social-list list-inline-sm">
                       <li><a class="icon mdi mdi-facebook" href="#"></a></li>
                       <li><a class="icon mdi mdi-twitter" href="#"></a></li>
-                      <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                      <li><a class="icon mdi mdi-google-plus" href="#"></a></li>
+                      <!-- <li><a class="icon mdi mdi-instagram" href="#"></a></li>
+                      <li><a class="icon mdi mdi-google-plus" href="#"></a></li> -->
                     </ul>
                   </div>
                   <div class="col-sm-6 col-lg-12 aside-contacts-item">
                     <p class="aside-contacts-title">Phone</p>
                     <div class="unit unit-spacing-xs justify-content-center justify-content-md-start">
                       <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a class="phone" href="tel:#">1-800-1234-567</a></div>
+                      <div class="unit-body"><a class="phone" href="tel:08038138665">08038138665</a></div>
                     </div>
                   </div>
                   <div class="col-sm-6 col-lg-12 aside-contacts-item">
@@ -104,10 +104,5 @@
       </section>
 
      <?php include "./footer.php";?>
-    <!-- Global Mailform Output-->
-    <div class="snackbars" id="form-output-global"></div>
-    <!-- Javascript-->
-    <script src="js/core.min.js"></script>
-    <script src="js/script.js"></script>
   </body>
 </html>
