@@ -301,18 +301,18 @@
           <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/gallery-1-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-1-310x585.jpg" alt="" width="310" height="585"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="./images/ingredients-3.png" data-lightgallery="item"><img src="./images/ingredients-3.png" alt="" width="310" height="585"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Best Ingredients</a></h6>
-                    <div class="thumbnail-mary-location">Tasty Pizza</div>
+                    <div class="thumbnail-mary-location">The Process</div>
                   </div>
                 </div>
               </article>
             </div>
             <div class="col-xs-6 col-sm-8 col-xl-4 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="images/gallery-2-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-2-631x587.jpg" alt="" width="631" height="587"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-big wow slideInRight"><a class="thumbnail-mary-figure" href="./images/comfortable-inter.png" data-lightgallery="item"><img src="./images/comfortable-inter.png" alt="" width="631" height="587"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Comfortable interior</a></h6>
@@ -323,7 +323,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="images/gallery-3-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-3-311x289.jpg" alt="" width="311" height="289"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInDown"><a class="thumbnail-mary-figure" href="./images/quality-dishware.png" data-lightgallery="item"><img src="./images/quality-dishware.png" alt="" width="311" height="289"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">quality Dishware</a></h6>
@@ -334,7 +334,7 @@
             </div>
             <div class="col-xs-6 col-sm-8 col-xl-4 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="images/gallery-4-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-4-631x289.jpg" alt="" width="631" height="289"/></a>
+              <article class="thumbnail thumbnail-mary wow slideInUp"><a class="thumbnail-mary-figure" href="./images/juicy-glass.png" data-lightgallery="item"><img src="./images/juicy-glass.png" alt="" width="631" height="289"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Refreshing cocktails</a></h6>
@@ -367,7 +367,7 @@
             </div>
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
               <!-- Thumbnail Mary-->
-              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="images/gallery-7-1200x800-original.jpg" data-lightgallery="item"><img src="images/gallery-7-311x289.jpg" alt="" width="311" height="289"/></a>
+              <article class="thumbnail thumbnail-mary thumbnail-mary-2 wow slideInLeft"><a class="thumbnail-mary-figure" href="./images/quality-menu.png" data-lightgallery="item"><img src="./images/quality-menu.png" alt="" width="311" height="289"/></a>
                 <div class="thumbnail-mary-caption">
                   <div>
                     <h6 class="thumbnail-mary-title"><a href="#">Diverse menu</a></h6>

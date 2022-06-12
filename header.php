@@ -102,8 +102,6 @@
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacts</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="carts.php">carts</a>
-                      </li>
                     </ul>
                   </div>
                 </div>
