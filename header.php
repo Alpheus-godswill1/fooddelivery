@@ -1,3 +1,4 @@
+<?php ob_start(); ?>
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
@@ -80,7 +81,7 @@
                       <li>
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                          <div class="unit-body"><a class="address" href="#">514 S. Magnolia St. Orlando, FL 32806</a></div>
+                          <div class="unit-body"><a class="address" href="#">Address</a></div>
                         </div>
                       </li>
                     </ul>
