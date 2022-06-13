@@ -30,7 +30,7 @@
                 <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">Newsletter</span></h5>
                 <p class="wow fadeInRight">Sign up today for the latest news and updates.</p>
                 <!-- RD Mailform-->
-                <form class="rd-form rd-mailform rd-form-inline rd-form-inline-sm oh-desktop" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="bat/rd-mailform.php">
+                <form class="rd-form rd-mailform rd-form-inline rd-form-inline-sm oh-desktop" data-form-output="form-output-global" data-form-type="subscribe" method="post" action="./function.php">
                   <div class="form-wrap wow slideInUp">
                     <input class="form-input" id="subscribe-form-2-email" type="email" name="email" data-constraints="@Email @Required"/>
                     <label class="form-label" for="subscribe-form-2-email">Enter your E-mail</label>
@@ -50,7 +50,7 @@
                 <div class="row row-30 align-items-center text-lg-center">
                   <div class="col-md-7 col-xl-6"><a class="brand" href="index.html"><img src="images/logo-inverse-198x66.png" alt="" width="198" height="66"/></a></div>
                   <div class="col-md-5 col-xl-6">
-                    <div class="iso-1"><span><img src="./images/favicon.ico" alt="" width="58" height="25"/></span><span class="iso-1-big">9.4k</span></div>
+                    <div class="iso-1"><span><img src="./images/favicon.ico" alt="" width="58" height="25"/></span><span class="iso-1-big">1.4k</span></div>
                   </div>
                 </div>
               </div>
@@ -84,7 +84,7 @@
         <div class="footer-modern-line-3">
           <div class="container">
             <div class="row row-10 justify-content-between">
-              <div class="col-md-6"><span>514 S. Magnolia St. Orlando, FL 32806</span></div>
+              <div class="col-md-6"><span>Address</span></div>
               <div class="col-md-auto">
                 <!-- Rights-->
                 <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span></span><span>.&nbsp;</span><span>All Rights Reserved.</span></p>
