@@ -67,7 +67,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-198x66.png" alt="" width="198" height="66"/></a></div>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/logo-198x66.png" alt="" width="198" height="66"/></a></div>
                 </div>
                 <div class="rd-navbar-right rd-navbar-nav-wrap">
                   <div class="rd-navbar-aside">
@@ -99,7 +99,7 @@
                       </li>
                       <li class="rd-nav-item active"><a class="rd-nav-link" href="about-us.php">About us</a>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="typography.php">Typography</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="Blog.php">Blog</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacts</a>
                       </li>

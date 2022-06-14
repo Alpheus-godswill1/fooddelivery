@@ -4,7 +4,7 @@
       <section class="bg-gray-7">
         <div class="breadcrumbs-custom box-transform-wrap context-dark">
           <div class="container">
-            <h3 class="breadcrumbs-custom-title">Typography</h3>
+            <h3 class="breadcrumbs-custom-title">Blog</h3>
             <div class="breadcrumbs-custom-decor"></div>
           </div>
           <div class="box-transform" style="background-image: url(./images/ingredients-pics.png);"></div>
@@ -12,7 +12,7 @@
         <div class="container">
           <ul class="breadcrumbs-custom-path">
             <li><a href="index.php">Home</a></li>
-            <li class="active">Typography</li>
+            <li class="active">Blog</li>
           </ul>
         </div>
       </section>
