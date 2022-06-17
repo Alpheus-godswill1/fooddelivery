@@ -135,7 +135,7 @@
                 <div class="cta-modern">
                   <h3 class="cta-modern-title wow fadeInRight">Best Chop Plug</h3>
                   <p class="lead">Preciliar is the place of the best chop plug and has high-quality service.</p>
-                  <p class="cta-modern-text oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Ben Smith, Founder</span></p><a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#" data-wow-delay=".2s">View Our Services</a>
+                  <p class="cta-modern-text oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">chop, chop founder.</span></p><a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="about-us.php" data-nav-section="service" data-wow-delay=".2s">View Our Services</a>
                 </div>
               </div>
             </div>
@@ -229,7 +229,7 @@
               <div class="col-sm-9 col-md-7 col-lg-5">
                 <div class="cta-modern">
                   <h3 class="cta-modern-title cta-modern-title-2 oh-desktop"><span class="d-inline-block wow fadeInLeft">-30% on all salads & drinks</span></h3>
-                  <p class="cta-modern-text cta-modern-text-2 oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor cta-modern-decor-2 wow slideInLeft"></span><span class="d-inline-block wow slideInUp">Taste some of the best Preciliary salads!</span></p><a class="button button-lg button-secondary button-winona wow fadeInRight" href="contacts.html" data-wow-delay=".2s">contact us</a>
+                  <p class="cta-modern-text cta-modern-text-2 oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor cta-modern-decor-2 wow slideInLeft"></span><span class="d-inline-block wow slideInUp">Taste some of the best Preciliary salads!</span></p><a class="button button-lg button-secondary button-winona wow fadeInRight" href="contacts.php" data-wow-delay=".2s">contact us</a>
                 </div>
               </div>
             </div>
