@@ -1,4 +1,4 @@
-<?php include "header.php";?>
+<?php include "./header.php";?>
                         
       <!-- Breadcrumbs -->
       <section class="bg-gray-7">
@@ -22,28 +22,30 @@
           <div class="row row-60 justify-content-center">
             <div class="col-lg-8">
               <h4 class="text-spacing-25 text-transform-none">Get in Touch</h4>
-              <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
+
+              <form  data-form-output="" data-form-type="contact" method="POST" action="./include/function.php">
                 <div class="row row-20 gutters-20">
                   <div class="col-md-6">
                     <div class="form-wrap">
-                      <input class="form-input" id="contact-your-name-5" type="text" name="name" data-constraints="@Required">
+                      <input class="form-input" id="contact-your-name-5" type="text" name="email_name" data-constraints="@Required">
                       <label class="form-label" for="contact-your-name-5">Your Name*</label>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
-                      <input class="form-input border border-warning" id="contact-email-5" type="email" name="email" data-constraints="@Email @Required">
+                      <input class="form-input border border-warning" id="contact-email-5" type="email" name="email_address" data-constraints="@Email @Required">
                       <label class="form-label" for="contact-email-5">Your E-mail*</label>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="form-wrap">
                       <!--Select 2-->
-                      <select class="form-input" data-minimum-results-for-search="Infinity" data-constraints="@Required">
-                        <option value="1">Select a Service</option>
-                        <option value="2">Dine-In</option>
-                        <option value="3">Carry-Out</option>
-                        <option value="4">Event Catering</option>
+                      <select class="form-input" name="service" data-minimum-results-for-search="Infinity" data-constraints="@Required">
+                        <option value="Services">Services</option>
+                        <option value="Dine-In">Dine-In</option>
+                        <option value="Carry-Out">Carry-Out</option>
+                        <option value="Event Catering">Event Catering</option>
+                        <option value="Home Delivery">Home Delivery</option>
                       </select>
                     </div>
                   </div>
@@ -59,8 +61,14 @@
                       <textarea class="form-input textarea-lg" id="contact-message-5" name="message" data-constraints="@Required"></textarea>
                     </div>
                   </div>
+                  <div class="col-12">
+                    <div class="form-wrap">
+                      <label class="form-label" for="contact-message-5">Address</label>
+                      <textarea class="form-input textarea-lg" id="contact-message-5" name="home_address" data-constraints="@Required"></textarea>
+                    </div>
+                  </div>
                 </div>
-                <button class="button button-secondary button-winona" type="submit">Contact us</button>
+                <input type="submit" name="submit" class="button button-secondary button-winona"  value="Submit">
               </form>
             </div>
             <div class="col-lg-4">

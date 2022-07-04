@@ -1,4 +1,5 @@
 <?php ob_start(); ?>
+<?php include "./include/config.inc.php";?>
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
