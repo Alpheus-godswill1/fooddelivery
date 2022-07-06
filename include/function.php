@@ -19,7 +19,7 @@ function Send_email(){
             //1. Email which mail is to be sent to.
             //2. Subject of the mail
             //3. Message or content of the mail gotten from the person
-            $mailTo = "willyelv67@gmail.com";
+            $mailTo = "cuspeculiary1@gmail.com";
             $headers = "From: " . $email_address;
             $email_reason = "You have received an e-mail from: ". $email_name .".\n\n"." Whose phone number is : ".$email_phone.".\n\n".$email_content. ".\n\n". " Address Of Client: "."\n\n".$home_address;
 
