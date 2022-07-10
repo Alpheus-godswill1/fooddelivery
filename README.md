@@ -1,17 +1,17 @@
-# Getting Started with Create Food Delivery  App
+# Getting Started with Create Food Delivery  App.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools Needed
+1. A laptop is needed .
+2. A XAMMP control panel is needed .
+3. A Visual Studio Code editor is needed.
+4. Internet Connection is needed, to google if errors are encountered  while writing code .
 
-##  Tools Needed
+## Database Details For Contact Form Email Forwarding Using PHP
 
-Xampp;
-Visual Studio code;
+1. Database name is called ``` food_delivery ```.
 
-
-### Backend Language
-PHP 
-mysql database
-Apache Server
 
 ###  Used a nice template from templatemonster
+
+[visit](https://www.templatemonster.com/intense-multipurpose-html-template.html)
 
